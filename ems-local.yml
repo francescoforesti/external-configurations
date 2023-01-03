@@ -2,3 +2,7 @@
 pippo:
   pluto:
     paperino: "quick"
+
+spring:
+  jpa:
+    showSql: true
